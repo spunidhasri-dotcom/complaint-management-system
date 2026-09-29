@@ -103,6 +103,9 @@ Through this project, I practiced database design, SQL queries, joins, aggregati
 
 Aspiring Data Analyst  
 Skills: Excel | SQL | Python | Power BI | Data Analytics
+## 🗺️ Entity Relationship Diagram
+
+![Complaint Management System ER Diagram](complaint_management%20system%20ER%20diagram.png)
 ## 🗂️ Database Structure
 
 The Complaint Management System consists of 12 related tables:
